@@ -1,0 +1,18 @@
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\bin\Debug\lab1_cs.exe.config
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\bin\Debug\lab1_cs.exe
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\bin\Debug\lab1_cs.pdb
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.csprojResolveAssemblyReference.cache
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.Form1.resources
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.Properties.Resources.resources
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.csproj.GenerateResource.Cache
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.exe
+d:\_documents\visual studio 2017\Projects\lab1_cs\lab1_cs\obj\Debug\lab1_cs.pdb
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Debug\lab1_cs.exe.config
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.exe
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.pdb
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Debug\lab1_cs.exe
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Debug\lab1_cs.pdb
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.csprojResolveAssemblyReference.cache
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.Form1.resources
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.Properties.Resources.resources
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Debug\lab1_cs.csproj.GenerateResource.Cache

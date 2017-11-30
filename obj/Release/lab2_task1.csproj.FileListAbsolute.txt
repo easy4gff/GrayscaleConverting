@@ -1,0 +1,9 @@
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Release\lab1_cs.exe.config
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Release\lab1_cs.exe
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\bin\Release\lab1_cs.pdb
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab1_cs.Form1.resources
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab1_cs.Properties.Resources.resources
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab2_task1.csproj.GenerateResource.Cache
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab1_cs.exe
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab1_cs.pdb
+D:\Programming\Computer Graphics\lab1_cs\lab1_cs\obj\Release\lab2_task1.csprojResolveAssemblyReference.cache
